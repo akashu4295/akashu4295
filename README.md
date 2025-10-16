@@ -1,8 +1,8 @@
-### Hi there, I'm Akash 👋
+### Hi there, I'm Akash 
 
-- 🔭 I’m currently working on a GPU-accelerated multigrid multilevel Navier Stokes solver using meshless methods, and develping a generalised code using meshless methods to perform global stability analysis for fluid flows in complex geometries
-- 👯 I’m looking to collaborate on the multigrid-NS solver project, especially optimizing the matrix library functions in the header files. 
-- 📫 How to reach me: Email me at: akash.unnikrishnan@iitgn.ac.in; or at akashu4295@gmail.com
+- I’m currently working on a GPU-accelerated multigrid multilevel Navier Stokes solver using meshless methods, and develping a generalised code using meshless methods to perform global stability analysis for fluid flows in complex geometries
+- I’m looking to collaborate on the multigrid-NS solver project, especially optimizing the matrix library functions in the header files. 
+- How to reach me: Email me at: akash.unnikrishnan@iitgn.ac.in; or at akashu4295@gmail.com
 <!--
 **akashu4295/akashu4295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
